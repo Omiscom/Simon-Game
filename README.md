@@ -15,7 +15,7 @@
 
 <h3>Then: it's going to tell you that you’ve got it wrong and game is over,</h3>
 
-<video width="200" height="100" controls>
+<video width="100" height="50" controls>
 <source src="https://github.com/Omiscom/Simon-Game/blob/main/Simon%20-%20Google%20Chrome%202024-11-24%2008-56-22.mp4" type="video/mp4">
 </video>
 
