@@ -17,6 +17,11 @@
 <video width="320" height="240" controls>
 <source src="https://github.com/Omiscom/Simon-Game/blob/main/Simon%20-%20Google%20Chrome%202024-11-24%2008-56-22.mp4" type="video/mp4">
 </video>
+<video width="320" height="240" controls>
+<source src="movie.mp4" type="video/mp4">
+<source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag
+</video>
 
 <h2>So, you can press any key to restart the game.</h2>
 <a ref="">
