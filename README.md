@@ -7,7 +7,7 @@
 
 <h2>To start: User can press any key to start and it will show you a tile that you have to click on.</h2>	
 <img src="https://github.com/Omiscom/Simon-Game/blob/main/Simon%20-%20Google%20Chrome%2011_24_2024%208_55_49%20AM.png"/>
-<img src="https://github.com/Omiscom/Simon-Game/blob/main/Simon%20-%20Google%20Chrome%2011_24_2024%208_55_49%20AM.png"/>
+<img src="https://github.com/Omiscom/Simon-Game/blob/main/giphy%20(1).mp4"/>
 
 <p>And as user go from level to level, the patterns get more and more complicated, and at some point user keep going</p>
 
