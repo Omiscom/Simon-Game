@@ -3,10 +3,10 @@
 <p>it is sequence game, and the progress is shown at the top right of the screen in levels</p>
 <p>So in this game module user will be building a game that is modeled off the game</p>
 
-<img src="https://github.com/Omiscom/Simon-Game/blob/main/Simon%20-%20Google%20Chrome%2011_24_2024%208_55_49%20AM.png"
+
 
 <h2>To start: User can press any key to start and it will show you a tile that you have to click on.</h2>	
-
+<img src="https://github.com/Omiscom/Simon-Game/blob/main/Simon%20-%20Google%20Chrome%2011_24_2024%208_55_49%20AM.png"
 <video width="320" height="240" controls>
 <source src="https://github.com/Omiscom/Simon-Game/blob/main/Simon%20-%20Google%20Chrome%202024-11-24%2008-56-22.mp4" type="video/mp4">
 </video>
